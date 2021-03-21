@@ -1,7 +1,7 @@
 # Uncomment the line below once this repo has been cloned / forked. You don't want to store the .env file
 # on GitHub as it contains the secret key.
 
-# .env 
+.env 
 
 
 # Byte-compiled / optimized / DLL files

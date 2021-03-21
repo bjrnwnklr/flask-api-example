@@ -1,5 +1,5 @@
-from flaskexampleapp import app
-from flaskexampleapp.forms import ExampleForm
+from flaskapi import app
+from flaskapi.forms import ExampleForm
 from flask import render_template, jsonify
 
 

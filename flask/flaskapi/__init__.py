@@ -8,4 +8,4 @@ app.config.from_object(Config)
 # and import them in the respective modules.
 
 # this has to be at the bottom to avoid circular references
-from flaskexampleapp import routes
+from flaskapi import routes
