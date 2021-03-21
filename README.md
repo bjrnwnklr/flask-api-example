@@ -4,6 +4,7 @@ Simple Flask API example, based on my [Flask Docker template](https://github.com
 # Sources
 
 [Flask-RESTful documentation](https://flask-restful.readthedocs.io/en/latest/)
+[Flask-RESTful documentation - how to structure a project](https://flask-restful.readthedocs.io/en/latest/intermediate-usage.html)
 [Miguel Grinberg - Designing a RESTful API using Flask-RESTful](https://blog.miguelgrinberg.com/post/designing-a-restful-api-using-flask-restful)
 [Flask-SQLAlchemy - Quickstart](https://flask-sqlalchemy.palletsprojects.com/en/2.x/quickstart/)
 
