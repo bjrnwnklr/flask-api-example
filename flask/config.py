@@ -1,6 +1,7 @@
 import os
 
-# create a random secret key using 
+
+# create a random secret key using
 #   import secrets
 #   print(secrets.token_hex())
 #

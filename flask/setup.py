@@ -4,7 +4,8 @@ setup(
     name='flaskapi',
     author='Bjoern Winkler',
     description='A flask API example app',
-    packages=find_packages(),
+    packages=['flaskapi'],
+    # packages=find_packages(),
     include_package_data=True,
     install_requires=[
         'flask',
